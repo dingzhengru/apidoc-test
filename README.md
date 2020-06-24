@@ -81,7 +81,7 @@ WORKDIR /app
 COPY ./ /app
 
 RUN npm install -g apidoc && \
-    apidoc -i /app -o /app/apidoc && \
+    apidoc -i /app -o /app/apidoc
 
 # ---------- Production -------------
 FROM nginx:alpine
