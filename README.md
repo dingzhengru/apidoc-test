@@ -60,12 +60,17 @@ apidoc -i ./ -o ./apidoc
 ```
 
 ## Docker
+
 - 參考官方 github: https://github.com/apidoc/apidoc#docker-image
 - 此專案的 Dockerfile 是使用 nginx
+
+.dockerignore
 
 ```.dockerignore
 apidoc
 ```
+
+Dockerfile
 
 ```Dockerfile
 # ---------- BUild -------------
