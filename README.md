@@ -1,7 +1,7 @@
 # apidoc-test
 
-參考文章: https://medium.com/thinking-encode/apidoc-%E8%8F%9C%E9%B3%A5%E6%95%99%E5%AD%B8-6eb0207e26a3
-官方範例: https://apidocjs.com/#example-basic
+- 參考文章: https://medium.com/thinking-encode/apidoc-%E8%8F%9C%E9%B3%A5%E6%95%99%E5%AD%B8-6eb0207e26a3
+- 官方範例: https://apidocjs.com/#example-basic
 
 ```bash
 npm install -g apidoc
